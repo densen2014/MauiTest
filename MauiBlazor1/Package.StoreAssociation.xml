@@ -361,11 +361,13 @@
     <Language Code="zu-za" InMinimumRequirementSet="true" />
   </SupportedLocales>
   <ProductReservedInfo>
-    <MainPackageIdentityName>563DensenInformatica.561953A1AE0C6</MainPackageIdentityName>
+    <MainPackageIdentityName>563DensenInformatica.MauiBlazorDemo</MainPackageIdentityName>
     <ReservedNames>
-      <ReservedName>BlazorMauiDemoWithBootstrapBlazor</ReservedName>
+      <ReservedName>MauiBlazorDemo</ReservedName>
     </ReservedNames>
   </ProductReservedInfo>
-  <AccountPackageIdentityNames />
-  <PackageInfoList LandingUrl="https://developer.microsoft.com/dashboard/Application?appId=9PLT107XV47C" />
+  <AccountPackageIdentityNames>
+    <MainPackageIdentityName>563DensenInformatica.561953A1AE0C6</MainPackageIdentityName>
+  </AccountPackageIdentityNames>
+  <PackageInfoList LandingUrl="https://developer.microsoft.com/dashboard/Application?appId=9PNKR72N3L9F" />
 </StoreAssociation>
